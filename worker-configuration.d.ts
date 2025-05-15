@@ -2,4 +2,5 @@
 
 interface Env {
 	OPENAI_API_KEY: string;
+	YAHOO_FINANCE_API_KEY: string;
 }
