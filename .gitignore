@@ -172,3 +172,22 @@ dist
 .wrangler/
 
 node_modules/
+
+# Added by Claude Task Master
+*.log
+npm-debug.log*
+dev-debug.log
+# Environment variables
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS specific
+.DS_Store
+# Task files
+tasks.json
+tasks/ 
