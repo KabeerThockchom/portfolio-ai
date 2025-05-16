@@ -1,0 +1,32 @@
+/* public/css/base.css */
+/* Reset and base font styles */
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+	color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Audio player styling */
+audio {
+    margin-top: 1rem;
+    width: 100%;
+} 
